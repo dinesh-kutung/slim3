@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 added first line
+=======
+In the area of East Los Angeles, in 1982, in an environment that values a quick fix over education and learning, Escalante was a new math teacher at Garfield High School determined to change the system and challenge the students to a higher level of achievement.In the area of East Los Angeles, in 1982, in an environment that values a quick fix over education and learning, Escalante was a new math teacher at Garfield High School determined to change the system and challenge the students to a higher level of achievement.In the area of East Los Angeles, in 1982, in an environment that values a quick fix over education and learning, Escalante was a new math teacher at Garfield High School determined to change the system and challenge the students to a higher level of achievement.
+>>>>>>> 589708b1a887bc4247c2f4b0546142ef86e10135
